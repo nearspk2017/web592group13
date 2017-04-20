@@ -3,18 +3,26 @@ version: 1
 runtime: php55
 api_version: 1
 threadsafe: yes
-
 handlers:
 - url: /favicon\.ico
   static_files: favicon.ico
   upload: favicon\.ico
- 
-- url: /(.*\.(js|css|html|gif|png|jpg|wav|mp3|json))$
+  
+- url: /(.*\.(js|css|html|gif|png|jpg|zip|wav|svg|mp3|json|atlas|map|eot|ttf|woff|woff2|cfg))$
   static_files: \1
-  upload: .*\.(js|css|html|gif|png|jpg|wav|mp3|json)$
- 
+  upload: .*\.(js|css|html|gif|png|jpg|zip|wav|svg|mp3|json|atlas|map|eot|ttf|woff|woff2|cfg)$
+
 - url: /(.*\.php)$
   script: \1
+
+- url: /cms-.*
+  script: cms.php
   
-- url: .*
+- url: /cms2-.*
+  script: cms2.php
+ 
+- url: /
   script: main.php
+
+- url: .*
+  script: page.php
