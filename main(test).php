@@ -56,7 +56,7 @@ background-size: cover;}
                 </button>
 				<br>
 				
-                <a class="navbar-brand" href="home.php"><strong><center>GROUP 13</center></strong></a>               
+                <a class="navbar-brand" href="home.php"><strong><center>GROUP 13 CAR STORE</center></strong></a>               
             </div>
 			<br>
 			<ul class="nav navbar-nav navbar-right">
@@ -73,9 +73,9 @@ background-size: cover;}
 <div class="container">
 <div class="col-sm-3">
 <div class='panel panel-primary'><div class='panel-heading'>?</div><div class='panel-body'><a href='https://www.google.com/accounts/ServiceLogin?service=ah&passive=true&continue=https://appengine.google.com/_ah/conflogin%3Fcontinue%3Dhttp://web592group12.appspot.com/home.php&ltmpl=gm&shdf=ChkLEgZhaG5hbWUaDXdlYjU5Mmdyb3VwMTIMEgJhaCIU7W5KVmOK5x5XFnL23YSr69_zVr4oATIUJQ8zspqca0s2hyF2cstDOI00dGk'>Login or Register</a></div></div><div class='panel panel-primary'><div class='panel-heading'>Menu</div><div class='panel-body'><ul class="nav nav-pills nav-stacked">
-<li ><a href='?'> HONDA </a><li ><a href='?'> BMW</a><li ><a href='?'>Ferrari</a><li ><a href='?'> KOBOTA</a><li ><a href='?'>TONG</a></ul></div></div></div>
+<li ><a href='?'> HONDA </a><li ><a href='?'> Lumborghini</a><li ><a href='?'>Ferrari</a><li ><a href='?'>Mustang</a><li ><a href='?'>Honda</a></ul></div></div></div>
 <div class="col-sm-9">
-<div class='panel panel-primary'><div class='panel-heading'>GROUP13</div><div class='panel-body'>eiei</div></div></div>
+<div class='panel panel-primary'><div class='panel-heading'>GROUP13 </div><div class='panel-body'>eiei</div></div></div>
 </div>
 
 <footer class="text-center page-footer">
