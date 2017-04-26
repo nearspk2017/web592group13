@@ -1,0 +1,56 @@
+<!doctype html>
+<?php $appid="kritsanee-ict.appspot.com"; 
+ $page="home";
+ if(isset($_GET['p'])) $page=$_GET['p'];
+ if(strpos($page,".")) $page="error";
+ $bodyfile = "work7_$page.php";
+ ?>
+<html lang="en">
+<head>
+ <meta charset="UTF-8"><title><?= $page ?></title>
+ <title>Google App Engine & PHP & File </title>
+	<link rel="shortcut icon" href="http://th.seaicons.com/wp-content/uploads/2016/07/Pig-icon.png">
+ <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+ <FONT FACE="Ms Sans Serif"> <font-s>
+</head>
+<body role="document">
+<header class="page-header text-center">
+<?php
+ readfile("gs://$appid/header.html");
+?>
+</header>
+<body role="document ">
+	<header class="page-header text-center  ">
+		<h1 class="h1">Google App Engine & PHP & File</h1>
+	</header>
+<div class="container">
+ <div class="col-xs-12 col-sm-6 col-md-3" id="menudiv" style="background-color:#FFDDDD "> ส่วนเมนู
+  <?php include("work7menu.php"); ?>
+ <a href="work7.php?p=edit&file=menu.txt" class="btn btn-default" style="background-color: #FFFFFF">แก้ไขเมนู
+<span class="glyphicon glyphicon-pencil"></span>
+ </a> 
+ </div>
+ <div class="col-xs-12 col-sm-6 col-md-9" id="bodydiv" style="background-color:#FFFFCC"> ส่วนเนื้อหา
+ <?php
+ if(file_exists($bodyfile)){
+ include($bodyfile);
+ }
+ else {
+ echo "<h2>$title</h2>";
+ $htmlfile = "gs://$appid/$page.html";
+ if(file_exists($htmlfile)){
+ readfile($htmlfile);
+ }
+ echo "<br><a href='work7.php?p=edit&file=$page.html' class='btn btn-default'>Edit</a>";
+ }
+?>
+</div>
+</div>
+<footer class="text-center page-footer">
+<?php
+ readfile("gs://$appid/footer.html");
+ echo "<br><a href='?p=edit&file=header.html' class='btn btn-default'>แก้ไข header</a>";
+ echo "<a href='?p=edit&file=footer.html' class='btn btn-default'>แก้ไข footer</span></a>";
+?>
+ </footer>
+</body></html>
