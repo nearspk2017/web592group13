@@ -3,7 +3,6 @@
 <head>
  <meta charset="UTF-8">
  <title>GROUP13 </title>
-	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<link rel="stylesheet"href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
@@ -69,7 +68,6 @@ background-size: cover;}
 	
 	<br>
 	<br>
-	
 <div class="container">
 <div class="col-sm-3">
 <div class='panel panel-primary'><div class='panel-heading'>?</div><div class='panel-body'><a href='https://www.google.com/accounts/ServiceLogin?service=ah&passive=true&continue=https://appengine.google.com/_ah/conflogin%3Fcontinue%3Dhttp://web592group12.appspot.com/home.php&ltmpl=gm&shdf=ChkLEgZhaG5hbWUaDXdlYjU5Mmdyb3VwMTIMEgJhaCIU7W5KVmOK5x5XFnL23YSr69_zVr4oATIUJQ8zspqca0s2hyF2cstDOI00dGk'>Login or Register</a></div></div><div class='panel panel-primary'><div class='panel-heading'>Menu</div><div class='panel-body'><ul class="nav nav-pills nav-stacked">
