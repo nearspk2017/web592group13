@@ -1,0 +1,26 @@
+application: web592group13
+version: 1
+runtime: php55
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: /css
+  static_dir: css
+
+- url: /js
+  static_dir: js
+  
+- url: /(.*\.(html|gif|jpg|png|js|css|svg|eot|ttf|woff|woff2|zip|otf))$
+  static_files: \1
+  upload: .*\.(js|css|html|gif|png|jpg|svg|eot|ttf|woff|woff2|zip|otf)$
+
+- url: /(.*\.php)$
+  script: \1
+
+- url: .*
+  script: main.php
