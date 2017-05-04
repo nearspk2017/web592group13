@@ -1,0 +1,711 @@
+
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>สูตรขนมหวานไทย</title>
+
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META 
+content="ฟรี! สูตรขนมหวานไทยมากมาย 100+  มีวิธีทำทีละขั้นตอน เข้าใจง่าย เหมาะสำหรับผู้ที่นิยมทำขนมหวานไทยทั้งมือใหม่และผู้ที่ทำเป็นประจำ " 
+name=description>
+<META content="อาหารไทย, เนื้อมะพร้าว, ขนมหวาน, วิธีทำขนมไทย, วิธีทำขนม, สูตรขนมหวานไทย,ขนมไทย, ขนมหวานไทย," name=keywords>
+
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/style-free-desserts.css" rel="stylesheet" type="text/css" media="all" />
+<!-- js -->
+<script src="js/jquery-1.11.1.min.js"></script>
+<!-- //js -->
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Syncopate:400,700' rel='stylesheet' type='text/css'>
+<style type="text/css">
+.style6 {font-size: 13px}
+</style>
+</head>
+	
+   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4162533764445878",
+    enable_page_level_ads: true
+  });
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/th_TH/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script> 
+    
+    
+<body>
+<!-- banner-body -->
+	<div class="banner-body">
+		<div class="container">
+			<div class="banner-body-content">
+				<div class="top-nav">
+					<nav class="navbar navbar-default">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header">
+						  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						  </button>
+						</div>
+
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+							<nav class="fill">
+								<ul class="nav navbar-nav">
+									<li><a href="index_th.html">เกี่ยวกับอาหารไทย</a></li>
+                                    <li><a href="free_recipes_th.html">สูตรอาหารไทย</a></li>
+                                    <li class="active"><a href="thai_dessert_recipes.html">สูตรขนมไทย</a></li>
+                                  <li><a href="thai_dessert/about_thai_dessert.html">เกี่ยวกับขนมไทย</a></li>
+									<li><a href="thai_dessert/history_of_thai_dessert.html">ประวัติขนมไทย</a></li>
+                                    <li><a href="thai_dessert/thai_dessert_ingredients.html">วัตถุดิบที่ใช้ทำขนมไทย</a></li>
+                                    <li><a href="thai_dessert/cooking_thai_dessert.html">วิธีทำขนมไทย</a></li>
+									<li><a href="link_to_us_th.htm">ลิงค์น่าสนใจ</a></li>
+								</ul>
+							</nav>
+						</div>
+						<!-- /.navbar-collapse -->
+					</nav>
+				</div>
+				<div class="banner">
+					<div class="wmuSlider example1">
+						<div class="wmuSliderWrapper">
+							<article style="position: absolute; width: 100%; opacity: 0;"> 
+								<div class="banner-wrap">
+									<div class="banner1">
+										<div class="banner1-info">
+											<a href="thai_dessert_recipes.html">ฐานข้อมูล ขนมไทย และ สูตรขนมไทย <span>B y &nbsp;  E z y t h a i c o o k i n g . c o m&nbsp;&nbsp;&nbsp;</span></a>
+										</div>
+									</div>
+								</div>
+							</article>
+							<article style="position: absolute; width: 100%; opacity: 0;"> 
+								<div class="banner-wrap">
+									<div class="banner2">
+										<div class="banner1-info">
+											<a href="thai_dessert_recipes.html">100+ ฟรี สูตรขนมไทย<span>B y&nbsp;&nbsp;   E z y T h a i C o o k i n g . c o m</span></a>
+										</div>
+									</div>
+								</div>
+							</article>
+							<article style="position: absolute; width: 100%; opacity: 0;"> 
+								<div class="banner-wrap">
+									<div class="banner3">
+										<div class="banner1-info">
+											<a href="thai_dessert/history_of_thai_dessert.html">สาระน่ารู้ และประวัติ เกี่ยวกับขนมไทย<span>B y&nbsp;&nbsp;   E z y T h a i C o o k i n g . c o m</span></a>
+										</div>
+									</div> 
+								</div>
+							</article>
+						</div>
+					</div>
+							<script src="js/jquery.wmuSlider.js"></script> 
+							<script>
+								$('.example1').wmuSlider();         
+							</script> 
+				</div>
+				<!-- services -->
+					<div class="services">
+						
+                        <div>                          
+                          <div align="center">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Ezy_Res_LU_DESSERT-RECIPE_TH -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4162533764445878"
+     data-ad-slot="7873640191"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                          </div>
+                        </div>
+                                                
+                        
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                        <h2>สูตรขนมไทย</h2>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+						<div class="services-grids">
+							<div class="col-md-6 services-grid">
+								<div class="services-grid-left">
+									<span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
+								</div>
+								<div class="services-grid-right">
+                                
+									<h3>สูตรขนมไทย - เชื่อม :</h3>
+									<p>&nbsp;<a href="free_dessert_recipes/Thai_green_peanut_paste_th.html" target="_blank">ขนมเม็ดขนุน </a></p>
+							  <p><a href="free_dessert_recipes/Thai_egg_yolk_fudge_balls_cooked_in_syrup_th.html" target="_blank">&nbsp;ขนมทองหยอด</a></p>
+							  <p><a href="free_dessert_recipes/Thai_golden_threads_foy_thong_th.html" target="_blank">&nbsp;ขนมฝอยทอง </a></p>
+							  <p><a href="free_dessert_recipes/Thai_bananas_in_syrup_th.html" target="_blank">&nbsp;กล้วยเชื่อม </a></p>
+							  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Tong_Yib_th.html" target="_blank"> ขนมทองหยิบ</a>							  </p>
+							  <table width="203" align="center">
+							    <tr>
+							      <td width="195">&nbsp;&nbsp;&nbsp;
+							        <div align="center"></div></td>
+						        </tr>
+							    <tr>
+							      <td><div align="center"><img src="images/thai_dessert_tong_yod.jpg" alt="ขนมหวานไทย :  : ทองหยอด" width="200" height="150"></div></td>
+						        </tr>
+							    <tr>
+							      <td><div align="center"></div></td>
+						        </tr>
+							    </table>
+							  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Ma_Prao_Kaew_th.html" target="_blank"> &nbsp;ขนมมะพร้าวแก้ว </a></p>
+							  <p><a href="free_dessert_recipes/Thai_dessert_pumpkins_in_syrup_th.html" target="_blank">&nbsp;ฟักทองเชื่อม </a></p>
+							  <p><a href="free_dessert_recipes/Thai_dessert_cassavas_in_syrup_th.html" target="_blank"> มันสำปะหลังเชื่อม</a></p>
+							  <div>
+							    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							    <!-- Ezy_Responsive_Free_Desserts_th_index -->
+							    <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4162533764445878"
+     data-ad-slot="6566860592"
+     data-ad-format="auto"></ins>
+							    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+                                </script>
+							    </div>
+							  <p><a href="free_dessert_recipes/Thai_dessert_kanom_mun_tade_cheum_th.html" target="_blank"> ขนมมันเทศเชื่อม</a></p>
+							  <p><a href="free_dessert_recipes/Thai_dessert_kanom_pood_sa_cheum_th.html" target="_blank"> ขนมพุทราเชื่อม </a></p>
+							  <p><a href="free_dessert_recipes/Thai_dessert_kanom_peuk_cheum_th.html" target="_blank"> ขนมเผือกเชื่อม  </a><a href="free_recipes/thai_fried_rice_with_pork_th.html" target="_blank">                              </a><img src="images/update.gif" width="45" height="14" alt=""/></p>
+                              <p>&nbsp;</p>
+                              <p>&nbsp;</p>
+                              <p></p>
+								</div>
+                                
+								<div class="clearfix"> </div>
+							</div>
+							<div class="col-md-6 services-grid">
+								<div class="services-grid-left">
+									<span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
+								</div>
+								<div class="services-grid-right">
+                                
+									
+                                    <h3>สูตรขนมไทย - ทอด :</h3>
+									<p><a href="free_dessert_recipes/Thai_fried_banana_th.html" target="_blank"> กล้วยทอด</a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_pun_klip_th.html" target="_blank"> ขนมปั้นขลิบทอด</a></p>
+									<table width="203" align="center">
+									  <tr>
+									    <td width="195">&nbsp;&nbsp;&nbsp;
+									      <div align="center"></div></td>
+								      </tr>
+									  <tr>
+									    <td><div align="center"><img src="../images/kanom_pun_klip_tod-1.jpg" alt="ขนมหวานไทย : ขนมปั้นขลิบทอด (ไส้หมูหยอง)" width="185" height="150"></div></td>
+								      </tr>
+									  <tr>
+									    <td><div align="center"></div></td>
+								      </tr>
+								  </table>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_Kai_Nok_Kra_Ta_th.html" target="_blank"> ขนมไข่นกกระทา</a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_Donut_th.html" target="_blank"> ขนมโดนัท </a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_pun_klip_th.html" target="_blank"></a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_dok_jok_th.html" target="_blank"> ขนมดอกจอก</a><a href="free_dessert_recipes/Thai_dessert_kanom_kan_bua_th.html" target="_blank"> </a></p>
+								  <table width="203" align="center">
+									  <tr>
+									    <td width="195">&nbsp;&nbsp;&nbsp;
+									      <div align="center"></div></td>
+								      </tr>
+									  <tr>
+									    <td><div align="center"><img src="images/kanom_dok-jok.jpg" alt="" width="185" height="150" align="absmiddle"/></div></td>
+								      </tr>
+									  <tr>
+									    <td><div align="center"></div></td>
+								      </tr>
+								  </table>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_kan_bua_th.html" target="_blank">ขนมก้านบัว </a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_tong-plu_th.html" target="_blank"> ขนมทองพลุ </a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_gong_th.html" target="_blank"> ขนมกง  </a></p>
+								  <p>&nbsp;</p>
+									<div>
+									  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+									  <!-- Ezy_Responsive_Free_Desserts_th_index -->
+									  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4162533764445878"
+     data-ad-slot="6566860592"
+     data-ad-format="auto"></ins>
+									  <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+                                      </script>
+								  </div>
+									<p>&nbsp;</p>
+							  </div>
+                                
+                                
+								<div class="clearfix"> </div>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
+					
+                    	<div class="services-grids">
+							<div class="col-md-6 services-grid">
+								<div class="services-grid-left">
+									<span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
+								</div>
+								<div class="services-grid-right">
+                                
+									<h3>สูตรขนมไทย - กวน :</h3>
+									<p><a href="free_dessert_recipes/Green_peanut_in_jelly_th.html" target="_blank">&nbsp;</a><a href="free_dessert_recipes/Green_peanut_in_jelly_th.html" target="_blank">ขนมลูกชุบ </a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_Sum_Pun_Nee_th.html" target="_blank"> ขนมสำปันนี </a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_tua_guan_th.html" target="_blank"> ขนมถั่วกวน</a></p>
+									<table width="203" align="center">
+									  <tr>
+									    <td width="195">&nbsp;&nbsp;&nbsp;
+									      <div align="center"></div></td>
+								      </tr>
+									  <tr>
+									    <td><div align="center"><img src="images/kanom_tua-guan.jpg" alt="" width="185" height="150" align="absmiddle"/></div></td>
+								      </tr>
+									  <tr>
+									    <td><div align="center"></div></td>
+								      </tr>
+								  </table>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_kao_too_th.html" target="_blank"> ข้าวตูมะพร้าวอ่อน</a></p>
+									<p><a href="free_dessert_recipes/Thai_pudding_with_coconut_topping_th.html" target="_blank"> ขนมตะโก้ </a></p>
+                                    <p><a href="free_dessert_recipes/Thai_black_coconut_sweet_pudding_th.html" target="_blank"> ขนมเปียกปูน </a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_sa_nay_jun_th.html" target="_blank"> ขนมเสน่ห์จันทร์ </a></p>
+								  <table width="203" align="center">
+									  <tr>
+									    <td width="195">&nbsp;&nbsp;&nbsp;
+									      <div align="center"></div></td>
+								      </tr>
+									  <tr>
+									    <td><div align="center"><img src="images/kanom_sa_nay-jun-1.jpg" alt="" width="185" height="150" align="absmiddle"/></div></td>
+								      </tr>
+									  <tr>
+									    <td><div align="center"></div></td>
+								      </tr>
+								  </table>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_red_sticky_rice_th.html" target="_blank"> ขนมข้าวเหนียวแดง </a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_tong_ake_th.html" target="_blank"> ขนมทองเอก </a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_ga-la-mair_th.html" target="_blank"> ขนมกาละแม </a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_gra-ya-sart_th.html" target="_blank"> ขนมกระยาสารทเสวย </a>									</p>
+									<div>
+									  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Ezy_Responsive_Free_Desserts_th_index -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4162533764445878"
+     data-ad-slot="6566860592"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+								  </div>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_kor-rah_th.html" target="_blank"> ขนมกอและห์ </a></p>
+									<p><a href="free_dessert_recipes/Thai_dessert_kanom_leum_gluen_th.html" target="_blank"> ขนมลืมกลืน </a></p>
+								  <table width="203" align="center">
+									  <tr>
+									    <td width="195">&nbsp;&nbsp;&nbsp;
+									      <div align="center"></div></td>
+								      </tr>
+									  <tr>
+									    <td><div align="center"><img src="images/rf14-kanom-luem-gluen-1.jpg" alt="" width="185" height="150" align="absmiddle"/></div></td>
+								      </tr>
+									  <tr>
+									    <td><div align="center"></div></td>
+								      </tr>
+								  </table>
+									<p>&nbsp;</p>
+									<p>&nbsp;</p>
+								</div>
+                                
+								<div class="clearfix"> </div>
+							</div>
+							<div class="col-md-6 services-grid services-gridasd">
+								<div class="services-grid-left">
+									<span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
+								</div>
+								<div class="services-grid-right">
+									
+                                    <h3>สูตรขนมไทย - นึ่ง : </h3>
+								  <p><a href="free_dessert_recipes/Thai_custard_th.html" target="_blank">&nbsp;สังขยา </a></p>
+								  <p><a href="free_dessert_recipes/Thai_pumpkin_custard_th.html" target="_blank"> ขนมสังขยาฟักทอง </a></p>
+								  <p><a href="free_dessert_recipes/Thai_steamed_banana_cake_th.html" target="_blank"> ขนมกล้วย</a></p>
+								  <p><a href="free_dessert_recipes/Thai_steamed_pandanus_cake_th.html" target="_blank"> ขนมถ้วย</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_Sa-Lee_th.html" target="_blank"> ขนมสาลี่ </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_chan_th.html" target="_blank"> ขนมชั้น </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Pui_Fai_th.html" target="_blank"> ขนมปุยฝ้่าย </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Tian_th.html" target="_blank"> ขนมเทียน </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_tien_kaew_th.html" target="_blank"> ขนมเทียนแก้ว </a></p>
+                                  <table width="203" align="center">
+                                    <tr>
+                                      <td width="195">&nbsp;&nbsp;&nbsp;
+                                        <div align="center"></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"><img src="images/rf14-kanom_tien_kaew-1.jpg" alt="" width="185" height="150" align="absmiddle"/></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"></div></td>
+                                    </tr>
+                                  </table>
+                                  <p><a href="free_dessert_recipes/Thai_dessert_kanom_nam_dok_mai_th.html" target="_blank"> ขนมน้ำดอกไม้</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Kee_Noo_th.html" target="_blank"> ขนมขี้หนู</a></p>
+								  <p><a href="free_dessert_recipes/Thai_sticky_rice_with_coconut_milk_th.html" target="_blank"> ข้าวเหนียวมูน </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_kao_neaw_moon_na_koong_th.html" target="_blank"> ข้าวเหนียวมูนหน้ากุ้ง </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_kao_neaw_moon_na_pla_th.html" target="_blank"> ข้าวเหนียวมูนหน้าปลาแห้ง </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_kao_neaw_moon_custard_th.html" target="_blank"> ข้าวเหนียวมูนหน้าสังขยา</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_kao_neow_kloy_neung.html" target="_blank"> ข้าวเหนียวกลอยนึ่ง </a></p>
+                                  <table width="203" align="center">
+                                    <tr>
+                                      <td width="195">&nbsp;&nbsp;&nbsp;
+                                        <div align="center"></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"><img src="images/rf14-kanom-kao-neow-kloy-neung-1.jpg" alt="" width="185" height="150" align="absmiddle"/></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"></div></td>
+                                    </tr>
+                                  </table>
+                                  <p><a href="free_dessert_recipes/Thai_dessert_kanom_kao_tom_mud_th.html" target="_blank"> ขนมข้าวต้มมัด </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_sod_sai_th.html" target="_blank"> ขนมสอดไส้ </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_peuk.html" target="_blank"> ขนมเผือก </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_mun_sum_pa_lung_th.html" target="_blank"> ขนมมันสำปะหลัง </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_fuk_tong_th.html" target="_blank"> ขนมฟักทอง </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_dok_sanoe_th.html" target="_blank">. ขนมดอกโสน  </a></p>
+								  <p>&nbsp;</p>
+								  <p>&nbsp; </p>
+								</div>
+                                
+								<div class="clearfix"> </div>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
+                        
+                        
+                      <div class="services-grids">
+							<div class="col-md-6 services-grid">
+								<div class="services-grid-left">
+									<span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
+								</div>
+								<div class="services-grid-right">
+									<h3>สูตรขนมไทย - ต้ม :</h3>
+								  <p><a href="free_dessert_recipes/banana_in_coconut_milk_th.html" target="_blank"> ขนมกล้วยบวดชี </a></p>
+								  <p><a href="free_dessert_recipes/Thai_coconut_jelly_th.html" target="_blank"> ขนมวุ้นกะทิ </a></p>
+								  <p><a href="free_dessert_recipes/Water_chestnut_with_syrup_and_coconut_milk_th.html" target="_blank"> ขนมทับทิมกรอบ </a></p>
+								  <p><a href="free_dessert_recipes/Thai_black_sticky_rich_pudding_th.html" target="_blank"> ขนมข้าวเหนียวดำ</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dumplings_in_coconut_cream_th.html" target="_blank"> ขนมบัวลอย </a></p>
+								  <p><a href="free_dessert_recipes/Thai_pumpking_in_coconut_milk_th.html" target="_blank"> แกงบวดฟักทอง </a></p>
+								  <p><a href="free_dessert_recipes/Thai_caramelized_crisps_in_coconut_cream_krong_krang_th.html" target="_blank"> ขนมครองแครงกระทิ </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Tao_Suan_th.html" target="_blank"> ขนมเต้าส่วน</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Lod_Chong_th.html" target="_blank"> ขนมลอดช่อง</a></p>
+								  <p><a href="free_dessert_recipes/Thai_taro_in_coconut_milk_th.html" target="_blank"> แกงบวดเผือก </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_custard_jelly_th.html" target="_blank"> วุ้นสังขยา </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Sakoo_ma_prao_th.html" target="_blank"> สาคูเปียกมะพร้าวอ่อน </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_sweet_sticky_rice_with_longan_th.html" target="_blank"> ข้าวเหนียวเปียกลำใย </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_woon_maprao_jelly_th.html" target="_blank"> ขนมวุ้นมะพร้าวอ่อน </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_niew_th.html" target="_blank"> ขนมเหนียว </a></p>
+                                  <table width="203" align="center">
+                                    <tr>
+                                      <td width="195">&nbsp;&nbsp;&nbsp;
+                                        <div align="center"></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"><img src="../images/rf14-kanom-niew-1.jpg" alt="ขนมหวานไทย : ขนมเหนียว" width="185" height="150" hspace="10"></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"></div></td>
+                                    </tr>
+                                  </table>
+                                  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Tua_Pab_th.html" target="_blank"> ขนมถั่วแปบ </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_tua_kiew_tom_th.html" target="_blank"> ขนมถั่วเขียวต้มน้ำตาล</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_look_duey_piak_peuk_th.html" target="_blank"> ขนมลูกเดือยเปียกเผือก</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_tom_th.html" target="_blank"> ขนมต้มใบเตย </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_sala_loy_kaew_th.html" target="_blank"> สละลอยแก้ว</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_tang_thai_num_ka-ti_th.html" target="_blank"> แตงไทยน้ำกะทิ</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_yok_ma-nee_th.html" target="_blank"> ขนมหยกมณี </a></p>
+								  <p>&nbsp;<a href="free_dessert_recipes/Thai_dessert_kanom_ruam-mitr-num-ga-ti_th.html" target="_blank">ขนมรวมมิตรน้ำกะทิ </a></p>
+                                  <table width="203" align="center">
+                                    <tr>
+                                      <td width="195">&nbsp;&nbsp;&nbsp;
+                                        <div align="center"></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"><img src="images/rf15-kanom-ruam-mitr-num-ga-ti-1.jpg" alt="" width="185" height="150" align="absmiddle"/></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"></div></td>
+                                    </tr>
+                                  </table>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_num-kati_durian_th.html" target="_blank"> น้ำกะทิทุเรียน</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_woon_krob_th.html" target="_blank"> ขนมวุ้นกรอบ </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_tua_dum_kang_buad_th.html" target="_blank"> ขนมถั่วดำแกงบวด</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_sago_cantaloupe_th.html" target="_blank"> ขนมสาคูแคนตาลูป </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Peuk_num_ga-ti_th.html" target="_blank"> ขนมเผือกน้ำกะทิ</a>								</p>
+								</div>
+                                
+								<div class="clearfix"> </div>
+							</div>
+							<div class="col-md-6 services-grid services-gridasd">
+								<div class="services-grid-left">
+									<span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
+								</div>
+								<div class="services-grid-right">
+									
+                                    <h3>สูตรขนมไทย - อบ และอื่นๆ :</h3>
+								  <p><a href="free_dessert_recipes/Thai_baked_mung_bean_cake_th.html" target="_blank"> ขนมหม้อแกง </a></p>
+								  <p><a href="free_dessert_recipes/Thai_crispy_pancakes_th.html" target="_blank"> ขนมเบื้อง </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_A-Lua_th.html" target="_blank"> ขนมอาลัว </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Ping_th.html" target="_blank"> ขนมผิง </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_farang_ka_dee_jeen_th.html" target="_blank"> ขนมฝรั่งกุฏีจีน</a></p>
+                                  <table width="203" align="center">
+                                    <tr>
+                                      <td width="195">&nbsp;&nbsp;&nbsp;
+                                        <div align="center"></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"><img src="images/kanom_farang_ka_dee_jeen-1.jpg" alt="" width="185" height="150" align="absmiddle"/></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"></div></td>
+                                    </tr>
+                                  </table>
+                                  <p><a href="free_dessert_recipes/Thai_dessert_Kanom_Krok_th.html" target="_blank"> ขนมครก </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_pancake_with_coconut_th.html" target="_blank"> ขนมถังแตก </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Tokyo_th.html" target="_blank"> ขนมโตเกียว </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Tong_Muan_th.html" target="_blank"> ขนมทองม้วน </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_banana_cake_th.html" target="_blank"> ขนมเค๊กกล้วยหอม </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_kay_sorn_lum_jiak_th.html" target="_blank"> ขนมเกสรลำเจียก</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Goh_th.html" target="_blank"> ขนมโก๋ </a> <span class="style6"><img src="images/new1.gif" alt="new update" width="26" height="0"></span></p>
+                                  <table width="203" align="center">
+                                    <tr>
+                                      <td width="195">&nbsp;&nbsp;&nbsp;
+                                        <div align="center"></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"><img src="images/rf15-kanom-Goh-1.jpg" alt="" width="185" height="150" align="absmiddle"/></div></td>
+                                    </tr>
+                                    <tr>
+                                      <td><div align="center"></div></td>
+                                    </tr>
+                                  </table>
+                                  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Babin_th.html" target="_blank"> ขนมบ้าบิ่น </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Kai_th.html" target="_blank"> ขนมไข่</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_Waffle_th.html" target="_blank"> ขนมรังผึ้ง</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_kleeb_lum_duan_th.html" target="_blank"> ขนมกลีบลำดวน</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_kao-neow-ping_th.html" target="_blank"> ข้าวเหนียวปิ้ง</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_kao_mao_klook_th.html" target="_blank"> ข้าวเม่าคลุก </a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_banana_ping_th.html" target="_blank"> ขนมกล้วยปิ้ง </a></p>
+								  <table width="203" align="center">
+								    <tr>
+								      <td width="195">&nbsp;&nbsp;&nbsp;
+								        <div align="center"></div></td>
+							        </tr>
+								    <tr>
+								      <td><div align="center"><img src="images/rf14-kanom_banana_ping.jpg" alt="" width="185" height="150" align="absmiddle"/></div></td>
+							        </tr>
+								    <tr>
+								      <td><div align="center"></div></td>
+							        </tr>
+							      </table>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_corn_ob_neoy_th.html" target="_blank"> ขนมข้าวโพดอบเนย</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_mor_tarn_th.html" target="_blank"> ขนมหม้อตาล</a></p>
+								  <p><a href="free_dessert_recipes/Thai_dessert_kanom_nar_nuan.html" target="_blank"> ขนมหน้านวล</a></p>
+								  <p></p>
+								</div>
+                                
+								<div class="clearfix"> </div>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
+                        
+                        
+                          
+                     
+                        
+						<h1>&nbsp;</h1>
+					</div>
+				<!-- //services -->
+			</div>
+		</div>
+	</div>
+<!-- //banner-body -->
+<!-- footer-top -->
+	<div class="footer-top">
+		<div class="container">
+			<div class="col-md-3 footer-top-grid">
+				<h3>Our <span>Friends</span></h3>
+				<table width="188" border="0" align="center">
+				  <tr>
+				    <td width="182"><p align="center"><a href="http://www.thaidietinfo.com" target="_blank"><img src="images/TDI-125X125-1.gif" width="125" height="125" alt=""/></a></p>
+				      <p align="center"><a href="http://www.thaidietinfo.com" title="ฟรี! ข้อมูลลดน้ำหนัก ลดความอ้วน" target="_blank">ลดน้ำหนัก | ลดความอ้วน</a></p>
+				      <p align="center"></p></td>
+			      </tr>
+			  </table>
+				<table width="188" border="0" align="center">
+				  <tr>
+				    <td>&nbsp;&nbsp;</td>
+			      </tr>
+				  <tr>
+				    <td width="182"><div align="center"><a href="http://www.thaifooddb.com" target="_blank"><img src="images/banner thaifooddb.gif" alt="ThaiFoodDB.com" width="87" height="30" border="0"></a></div></td>
+			      </tr>
+			  </table>
+				<p>&nbsp;</p>
+			</div>
+			<div class="col-md-3 footer-top-grid">
+				<h3>Our <span>Friends</span></h3>
+				<ul class="twi">
+				  <li>
+				    <table width="188" border="0" align="center">
+				      <tr>
+				        <td><p align="center"><a href="http://www.asean-info.com"><img src="images/asean-info_banner125x125.gif" alt="asean-info.com" width="125" height="125" border="0" longdesc="http://www.asean-info.com"></a></p>
+				          <p align="center">&nbsp;</p>
+				          <table width="100" align="center">
+				            <tr>
+				              <td><div align="center"><a href="http://www.dreamluckylotto.com" target="_blank"><img src="images/DreamLuckyLotto.gif" alt="ฟรี! ทำนายฝัน, ดูดวง, หวย" border="0" longdesc="http://www.DreamLuckyLotto.com"></a></div></td>
+			                </tr>
+			              </table></td>
+			          </tr>
+			        </table>
+				  </li>
+			  </ul>
+			</div>
+			<div class="col-md-3 footer-top-grid">
+			  <h3>Tags</h3>
+			  <div class="unorder">
+			    <ul class="tag2">
+			      <li><a href="free_recipes_th.html">สูตรอาหารไทย</a></li>
+			      <li><a href="index_th.html">อาหารไทย</a></li>
+			      <li><a href="free_recipes_th.html">วิธีทำอาหารไทย</a></li>
+		        </ul>
+			    <ul class="tag2">
+			      <li><a href="thai_dessert_recipes.html">สูตรขนมไทย</a></li>
+			      <li><a href="thai_dessert/about_thai_dessert.html">ขนมไทย</a></li>
+			      <li><a href="thai_dessert_recipes.html">วิธีทำขนมไทย</a></li>
+		        </ul>
+			    <ul class="tag2">
+			      <li><a href="thai_dessert/about_thai_dessert.html">เกี่ยวกับขนมไทย</a></li>
+			      <li><a href="index_th.html">เกี่ยวกับอาหารไทย</a></li>
+			      <li><a href="curry_paste_th.htm">น้ำพริก + เครื่องแกง</a></li>
+		        </ul>
+			    <ul class="tag2">
+			      <li><a href="ingredients_1_th.html">ผักและสมุนไพรไทย</a></li>
+			      <li><a href="coconut_th.htm">กะทิ</a></li>
+			      <li><a href="noodle_th.htm">เส้นก๋วยเตี๋ยว</a></li>
+		        </ul>
+			    <ul class="tag2">
+			      <li><a href="cooking_tips.html">สาระน่ารู้ อาหารและเครื่องดืม</a></li>
+			    </ul>
+			  </div>
+</div>
+			<div class="col-md-3 footer-top-grid">
+				<h3>Contact <span>Us</span></h3>
+				<ul class="twi">
+				  <li>Email : <a href="mailto:ezythaicooking@gmail.com" target="_blank">ezythaicooking@gmail.com</a></li></ul>
+				<ul class="twi">
+				  <li>Visit our Facebook Page : <a href="http://www.facebook.com/ezythaicooking" target="_blank">www.facebook.com/ezythaicooking</a></li><li>
+				    <div id="eXTReMe">
+				      <div align="center"><a href="http://extremetracking.com/open?login=ezythai"> <img src="http://t1.extreme-dm.com/i.gif" alt="eXTReMe Tracker" name="EXim" width="41"
+height="38" id="EXim" style="border: 0;" /></a>
+				        <script type="text/javascript"><!--
+var EXlogin='ezythai' // Login
+var EXvsrv='s11' // VServer
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=http://e2.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(parent.document.referrer)+" height=1 width=1>");//-->
+                        </script>
+				        <noscript>
+			            </noscript>
+			          </div>
+				    </div>
+				  </li>
+				  <li>&nbsp;&nbsp;&nbsp;
+				    <div>
+				      <noscript>
+				        <div id="neXTReMe"><img height="1" width="1" alt=""
+src="http://e2.extreme-dm.com/s11.g?login=ezythai&amp;j=n&amp;jv=n" /> </div>
+			          </noscript>
+			        </div>
+				    <div align="center">
+				      <!-- Histats.com  START  -->
+				      <script  type="text/javascript" language="javascript"> 
+  
+ var s_sid = 131173;var st_dominio = 4; 
+ var cimg = 500;var cwi =95;var che =18; 
+                        </script>
+				      <script  type="text/javascript" language="javascript" src="http://s10.histats.com/js9.js"></script>
+				      <noscript>
+				        <a href="http://www.histats.com" target="_blank"> <img  src="http://s4.histats.com/stats/0.gif?131173&1" alt="counter create hit" border="0"></a>
+			          </noscript>
+				      <!-- Histats.com  END  -->
+			        </div>
+			      </li>
+              </ul>
+			</div>
+			<p>&nbsp;</p>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+<!-- //footer-top -->
+<!-- footer -->
+	<div class="footer">
+		<div class="container">
+			<div class="footer-left">
+				<ul>
+					<li><a href="index.html">Ezy<i>Thai</i>cooking</a><span> |</span></li>
+					<li>
+					  <p><span> อาหารไทย | สูตรอาหารไทย | วิธีทำอาหารไทย | สูตรขนมไทย | สูตรขนมหวานไทย | ขนมหวาน | ขนมหวานไทย</span></p></li>
+				</ul>
+			</div>
+			<div class="footer-right">
+				<p>© 2007 EzyThaiCooking.com &nbsp;&nbsp; All rights reserved . </p>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+<!-- //footer -->
+<!-- scroll_top_btn -->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript">
+			$(document).ready(function() {
+			
+				var defaults = {
+		  			containerID: 'toTop', // fading element id
+					containerHoverID: 'toTopHover', // fading element hover id
+					scrollSpeed: 1200,
+					easingType: 'linear' 
+		 		};
+				
+				
+				$().UItoTop({ easingType: 'easeOutQuart' });
+				
+			});
+		</script>
+		 <a href="#" id="toTop" style="display: block;"><span id="toTopHover" style="opacity: 1;"></span></a>
+<!--end scroll_top_btn -->
+<!-- for bootstrap working -->
+<script src="js/bootstrap.js"></script>
+<!-- //for bootstrap working -->
+</body>
+</html>
